@@ -1,6 +1,6 @@
 cask "minutes" do
-  version "0.2.0"
-  sha256 "f8ff0a3c28bc36c42e9d672c101fa1b1971413f19b25e3d66c9d3d370f8516d2"
+  version "0.2.1"
+  sha256 "ecfdde3b01265dcefbb36955492c87412e90d897d43e506cda4003906f65cbef"
 
   url "https://github.com/RossLopez/minutes/releases/download/v#{version}/Minutes-#{version}-arm64.dmg"
   name "Minutes"
